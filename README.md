@@ -1,2 +1,5 @@
 # weather-web-page-template
-php weather web page 
+
+Php ile yapılmış bir hava durumu sitesi <br>
+
+https://openweathermap.org/ Apisi Kullanılarak Yapılmıştır.
